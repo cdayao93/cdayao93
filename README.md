@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on developing myself as a Cybersecurity Analyst<br>👯‍♂️ I'm looking to collaborate on AI based projects<br>💛 I'm looking for help with mentorship and career placement in Cybersecurity<br>🌱 I'm currently learning Splunk and portfolio projects<br>⚡ Fun fact - I use to command and operate nuclear missiles
+# Hi 👋 my name is Chris Dayao:
+🔭 I'm currently working on developing myself as a Cybersecurity Analyst<br>👯‍♂️ I'm looking to collaborate on AI or cloud based projects<br>💛 I'm looking for help with mentorship and career placement in Cybersecurity<br>🌱 I'm currently learning Splunk, Azure, CySA+<br>⚡ Fun fact - I use to command and operate nuclear missiles
 
 
 ## 🌐 Socials:
